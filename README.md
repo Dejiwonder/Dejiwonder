@@ -2,7 +2,7 @@
 
 I'm a **Machine Learning enthusiast** presently working on **time series forecasting** for renewable energy, focusing on **wind power generation**.  
 
-Check out my recent projects here: [My Learning Board](https://github.com/Dejiwonder/My-Learning-Board)
+Check out my recent projects here: [[Time_series_Forecasting_with_ARIMA](https://github.com/Dejiwonder/Time_series_Forecasting_with_ARIMA/blob/main/Arima.ipynb))
 ---
 ## 🛠️ Skills
 - Python, MATLAB, SQL  
