@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Adedeji Adeyemi 
 
-Welcome to my GitHub! I am a passionate **Machine Learning Engineer & Researcher** dedicated to solving real-world problems with data-driven solutions.  
+Welcome to my GitHub! I am a passionate **Machine Learning & Microgrid Researcher** dedicated to solving real-world problems with data-driven solutions.  
 
 ---
 
