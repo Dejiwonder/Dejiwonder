@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Adedeji
 
-I'm a **Machine Learning enthusiast** presently working on **time series forecasting** for renewable energy, focusing on **wind power generation AUGUST 2025- JANUARY 2026**.  
+I'm a machine learning enthusiast, currently working on time series forecasting for renewable energy, with a focus on Grid Planning from August 2025 to January 2026.  
 
-Check out my recent projects here: [[Forecasting AI App for Micro grid maangement system ](https://github.com/Dejiwonder/Random_Forest-vs-KNN-)]
+Check out my recent projects here: [[AI_Wind_Forecasting App for Micro grid management system ](https://github.com/Dejiwonder/Random_Forest-vs-KNN-)]
 ---
 ## 🛠️ Skills
 - Python, MATLAB, SQL  
